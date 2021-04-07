@@ -6,5 +6,5 @@ A project using photos of MN
 
 1. Item 1
 2. Item 3
-3.  *item
+  * item
   * Item 3b
